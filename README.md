@@ -1,5 +1,4 @@
 
-Copy code
 # Store Pricing Calculator
 
 This Python script calculates the total price of a list of products based on their individual prices and available offers.
